@@ -1,0 +1,22 @@
+id,name,link
+0,HTML Quiz,/html/html_quiz.asp
+1,CSS Quiz,/css/css_quiz.asp
+2,JavaScript Quiz,/js/js_quiz.asp
+3,SQL Quiz,/sql/sql_quiz.asp
+4,MySQL Quiz,/mysql/mysql_quiz.asp
+5,PHP Quiz,/php/php_quiz.asp
+6,Python Quiz,/python/python_quiz.asp
+7,NumPy Quiz,/python/numpy/numpy_quiz.asp
+8,Pandas Quiz,/python/pandas/pandas_quiz.asp
+9,SciPy Quiz,/python/scipy/scipy_quiz.php
+10,jQuery Quiz,/jquery/jquery_quiz.asp
+11,Java Quiz,/java/java_quiz.asp
+12,C++ Quiz,/cpp/cpp_quiz.asp
+13,C# Quiz,/cs/cs_quiz.asp
+14,R Quiz,/r/r_quiz.asp
+15,XML Quiz,/xml/xml_quiz.asp
+16,Bootstrap Quiz,/bootstrap/bootstrap_quiz.asp
+17,Bootstrap 4 Quiz,/bootstrap4/bootstrap_quiz.asp
+18,Bootstrap 5 Quiz,/bootstrap5/bootstrap_quiz.php
+19,ABOUT,/about/default.asp
+20,ABOUT,/about/default.asp
